@@ -1,0 +1,15 @@
+RUNNING THE SERVER
+
+Can run it through the virtual environment
+    source venv/bin/activate
+    python server.py
+
+Or run it by installing requirements listed in requirements.txt
+    easiest way is to use pip by running in terminal "pip install -r requirements.txt"
+
+
+
+GENERAL NOTES
+I chose to use python and flask because flask-Restful provided a light weight solution.
+It's a json api since json is simple and easy to use compared to xml.
+In addition, I am utilizing an ORM, SQLAlchemy because it provided for faster development.
