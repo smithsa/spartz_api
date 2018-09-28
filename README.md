@@ -9,7 +9,11 @@ In the project is a set of sample data in `cities.csv` and `users.csv`. A few ba
 
 ## Installation
 
-1. Install requirements found in requirements.txt. You can install manually or using pip. To instal via pip follow theses commands:
+1. Clone the repository
+```
+git clone git@github.com:smithsa/spartz_api.git
+```
+2. Install requirements found in requirements.txt. You can install manually or using pip. To instal via pip follow theses commands:
 
 a. navigate to directory
 ```
@@ -22,12 +26,12 @@ b. pip install requirements
 pip install -r requirements.txt
 ```
 
-2. Once requirements are installed activate the virutal environement
+3. Once requirements are installed activate the virutal environement
 ```
 source venv/bin/activate
 ```
 
-3. run the server
+4. run the server
 ```
  python server.py
 ```
