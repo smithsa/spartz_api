@@ -68,3 +68,7 @@ source venv/bin/activate
 I chose to use python and flask because flask-Restful provided a light weight solution.
 It's a json api since json is simple and easy to use compared to xml.
 In addition, I am utilizing an ORM, SQLAlchemy because it provided for faster development.
+
+## License
+
+[Free and unencumbered software released into the public domain.](http://unlicense.org/UNLICENSE)
