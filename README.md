@@ -63,6 +63,9 @@ source venv/bin/activate
 
 	`GET /v1/users/{user}/visits`
 
+## Built With
+*   [Python 2.7](https://www.python.org/)
+*   [Flask](http://flask.pocoo.org/)
 
 ## Additional Notes
 I chose to use python and flask because flask-Restful provided a light weight solution.
