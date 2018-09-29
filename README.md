@@ -1,5 +1,5 @@
 # Spartz Challenge
-Objective was to implement some basic API end points. In the project exists a set of sample data in `cities.csv` and `users.csv`. A few basic operations on the data provided are implemented, including listing the cities in a given state, listing cities near another city, and registering a visit to a particular city by a user. 
+The objective was to implement some basic API end points. In the project exists a set of sample data in `cities.csv` and `users.csv`. A few basic operations on the data provided are implemented, including listing the cities in a given state, listing cities near another city, and registering a visit to a particular city by a user. 
 
 ## Prerequisites
 *	[Python](https://www.python.org/)
